@@ -1,0 +1,6 @@
+Shuriken Quad 
+
+        P       I      D
+Roll    2.0		0.030	23
+Pitch   2.0		0.030	23
+Yaw     5.5		0.045	0
