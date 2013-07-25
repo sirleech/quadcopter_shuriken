@@ -1,0 +1,5 @@
+esc: hk afro 30a simonk firmware
+motors: turnigy air L2210 1400kv 210w
+props: 2 blade 10x4.5
+total mass:
+battery: zippy flightmax 3s 2200mah
