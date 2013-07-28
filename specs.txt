@@ -4,8 +4,8 @@ props: 2 blade 10x4.5 (hobbyking p/n# 017000060)
 battery: zippy flightmax 3s 2200mah
 
 1) FPV Platform
-payload: Fatshark FPV TX and pan tilt servo mechanism + TX
-gross weight: 964g
+payload: Fatshark FPV 250mw TX and Camera, Tilt servo
+gross weight: 939g
 failsafe throttle: 1200
 [x]CURRENT CONFIGURATION 
 
