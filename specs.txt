@@ -5,12 +5,11 @@ battery: zippy flightmax 3s 2200mah
 
 1) FPV Platform
 payload: Fatshark FPV TX and pan tilt servo mechanism + TX
-payload mass: ?
-total mass: 964g
+gross weight: 964g
 failsafe throttle: 1200
+[x]CURRENT CONFIGURATION 
 
 2) Aerial Photo Platform
-payload: Lumix camera 7mp + FPV gear
-payload mass: 215g
-total mass: 1179g 
+payload: Lumix camera 7mp (215g) + FPV gear
+gross weight: 1179g 
 failsafe throttle: 1250
