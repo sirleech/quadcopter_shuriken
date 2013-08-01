@@ -1,7 +1,7 @@
 esc: hk afro 30a simonk firmware
 motors: turnigy air L2210 1400kv 210w
 props: 2 blade 10x4.5 (hobbyking p/n# 017000060)
-battery: zippy flightmax 3s 2200mah
+battery: zippy flightmax 3S1P 40C 2200mah (hobbyking p/n# Z22003S-40)
 
 1) FPV Platform
 payload: Fatshark FPV 250mw TX and Camera, Tilt servo
